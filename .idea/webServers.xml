@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="941f11f1-9c90-4eda-a401-630637d4c011" name="project-name" url="https://ddc-web-dabeyta39.cnm.edu/~username/project-name/">
-        <fileTransfer rootFolder="/home/dabeyta39/public_html/project-name" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="12deb84a-23e7-4ade-a9ce-33b10f98da05" sshConfig="dabeyta39@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+        <fileTransfer rootFolder="/home/dabeyta39/public_html/project-name" accessType="SFTP" host="DeepDive55" port="22" sshConfigId="12deb84a-23e7-4ade-a9ce-33b10f98da05" sshConfig="dabeyta39@ddc-web-student.cnm.edu@DeepDive55:22 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
